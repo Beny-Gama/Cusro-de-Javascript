@@ -4,7 +4,7 @@
 let corSite  = 'azul';
 
 function resetCor(cor,tonalidade){
-    corSite = cor + ' ' + tonalidade;
+    corSite = cor + tonalidade;
 };
 
 console.log(corSite);
